@@ -1,3 +1,20 @@
+
+
+
+//////////////////////////////////////////////
+
+
+npm install
+npm run build:dev
+npx serve dist
+
+
+
+
+
+//////////////////////////////////////////////
+
+
 <img src="https://user-images.githubusercontent.com/870796/190517543-96f85ea2-55d0-4f3f-a1d6-18c926f8c8f5.png" data-canonical-src="https://user-images.githubusercontent.com/870796/190517543-96f85ea2-55d0-4f3f-a1d6-18c926f8c8f5.png" width="640" />
 
 # Detect and Map Objects of Interest from Drone Videos
